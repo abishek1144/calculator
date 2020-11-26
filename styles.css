@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: greenyellow;
+    font-family: 'Big Shoulders Stencil Display',cursive;
+    font-stretch: expanded;
+}
+.addn{
+    color: rgb(54, 238, 255);
+}
+.box{
+    background-color: black;
+    color: greenyellow;
+    border: 6px solid greenyellow;
+}
+.box1{
+    background-color: black;
+    color: rgb(54, 238, 255);
+    border: 6px solid rgb(54, 238, 255);
+}
+#btn1{
+  background-color: black;
+  border: 2px solid greenyellow;
+  color: greenyellow;
+  padding: 4px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+        font-family: 'Big Shoulders Stencil Display',cursive;
+    transition-duration: 0.4s;
+}
+#btn1:hover{
+    background-color: greenyellow;
+    color: black;
+    border: 2px solid black;
+}
+#btn2{
+  background-color: black;
+  border: 2px solid rgb(54, 238, 255);
+  color: rgb(54, 238, 255);
+  padding: 4px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+        font-family: 'Big Shoulders Stencil Display',cursive;
+    transition-duration: 0.4s;
+}
+#btn2:hover{
+    background-color: rgb(54, 238, 255);
+    color: black;
+    border: 2px solid black;
+}
+.ib1{
+    width: 20%;
+  padding: 12px 12px;
+  margin: 4px 0;
+  box-sizing: border-box;
+  border: 2px solid greenyellow;
+  background-color: black;
+  color: greenyellow;
+}
+.ib2{
+    width: 20%;
+  padding: 12px 12px;
+  margin: 4px 0;
+  box-sizing: border-box;
+  border: 2px solid rgb(54, 238, 255);
+  background-color: black;
+  color: rgb(54, 238, 255);
+}
