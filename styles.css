@@ -70,3 +70,14 @@ body{
   background-color: black;
   color: rgb(54, 238, 255);
 }
+
+.calcans{
+    color: greenyellow;
+    font-size: 25px;
+}
+
+.percans{
+    color: rgb(54, 238, 255);
+    font-size: 25px;
+}
+
