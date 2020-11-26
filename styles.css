@@ -35,7 +35,7 @@ body{
     color: black;
     border: 2px solid black;
 }
-#btn2{
+.btns{
   background-color: black;
   border: 2px solid rgb(54, 238, 255);
   color: rgb(54, 238, 255);
@@ -47,7 +47,7 @@ body{
         font-family: 'Big Shoulders Stencil Display',cursive;
     transition-duration: 0.4s;
 }
-#btn2:hover{
+.btns:hover{
     background-color: rgb(54, 238, 255);
     color: black;
     border: 2px solid black;
